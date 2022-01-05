@@ -34,54 +34,7 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-View the most up to date data in the [tracker](make.sc/spd-1-3)
-
-<!-- tabs:start -->
-<!-- omit in toc -->
-### **Section A: Dan**
-
-**Course Dates:** Wed, January 20 – Thursday, March 6, 2019 (7 weeks)
-
-**Class Times:** Class Times: Monday and Wednesday sections between 9:30am-12:15pm (13 class sessions)
-
-| Class |          Date          |                 Topics                  |  In-Person Labs   |
-|:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
-|  1 |  Wed, Jan 20               | [Intro to Teamwork] | |
-|  2 |  Mon, Jan 25               | [LARA] & [Sprint Retrospectives] | |
-|  3 |  Wed, Jan 27               | [Sprint Planning & Kan Ban] | Lab |
-|  - |  Mon, Feb 1                | [Git Collaboration] |
-|  4 |  Wed, Feb 3                | [Teamwork Performance] + Retrospective Sprint 1 | Lab |
-|  5 |  Mon, Feb 8                | [Industry Contacts] |
-|  6 |  Wed, Feb 10               | [5 Dysfunctions of a Team] + Retrospective Sprint 2 | Lab |
-|  7 |  Mon, Feb 15               | Teamwork and Personality Workshop |
-|  8 |  Wed, Feb 17               | Responding to Microagressions + Retrospective Sprint 3 | Lab |
-|  9 |  Mon, Feb 22               | [Investor Pitchdecks] |
-|  - |  Wed, Feb 24               | [6 Thinking Hats] + Retrospective Sprint 4 | Lab |
-| 10 |  Mon, Mar 1                | Warrom + Update LinkedIn & MKS Portfolio |
-| 11 |  Wed, Mar 3                | Final Survey & Presentations | |
-
-<!-- omit in toc -->
-### **Section B: Braus - Hybrid**
-
-**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
-
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
-
-| Class |          Date          |                 Topics                  |  In-Person Labs   |
-|:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
-|  1 |  Wed, Jan 20               | [Intro to Teamwork] | |
-|  2 |  Mon, Jan 25               | [LARA] & [Sprint Retrospectives] | |
-|  3 |  Wed, Jan 27               | [Sprint Planning & Kan Ban] | Lab |
-|  - |  Mon, Feb 1                | [Git Collaboration] |
-|  4 |  Wed, Feb 3                | [Teamwork Performance] + Retrospective Sprint 1 | Lab |
-|  5 |  Mon, Feb 8                | [Industry Contacts] |
-|  6 |  Wed, Feb 10               | [5 Dysfunctions of a Team] + Retrospective Sprint 2 | Lab |
-|  7 |  Mon, Feb 15               | Teamwork and Personality Workshop |
-|  8 |  Wed, Feb 17               | Responding to Microagressions + Retrospective Sprint 3 | Lab |
-|  9 |  Mon, Feb 22               | [Investor Pitchdecks] |
-|  - |  Wed, Feb 24               | [6 Thinking Hats] + Retrospective Sprint 4 | Lab |
-| 10 |  Mon, Mar 1                | Warrom + Update LinkedIn & MKS Portfolio |
-| 11 |  Wed, Mar 3                | Final Survey & Presentations | |
+View the most up to date data in the [tracker](https://docs.google.com/spreadsheets/d/14_e8X4dN6oiz0LCynOnUjhqscW5ZsmIPtq9mbOB5pco/edit#gid=786022362)
 
 <!-- tabs:end -->
 
@@ -127,8 +80,8 @@ All assignments are graded on completion. Individual requirements for each are l
 
 - **User Interviews** - user interviews help you understand and validate user needs. Here are user interview [best practices](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.p) and a [template script](https://docs.google.com/document/d/1uRRKejC3Ullk5vdw9P1SHmE56CGkekH2dIaoBV9ISeM/edit)
 - **Best Practices for User Narratives, Wireframe, Entity Relationship Diagram** - see [best practice articles, videos, and slides](https://docs.google.com/document/d/1uCxdv8N0TltGNS1YLOS8SkD0uLcir0Wg2I9pxS_PL_w/edit#) See [class slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.g3e71f5355a_0_26) here.
-- **Sprint Planning Meetings (1 hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.xffidahcubfs)*. Led by the PM. Team checks their roadmap and evaluate teams’ needs to decide what goes into the next sprint, and assign tasks. Teams can use [planning poker](https://en.wikipedia.org/wiki/Planning_poker) to estimate task effort. Everything is logged into Trello. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/AU9r774H/kanban-board-template).
-- **Sprint Retrospective (½ hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)*. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/qRzOdBvj/eng-retro-board-template).
+- **Sprint Planning Meetings (1 hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1NWpazHGgOmbilSfwwFRCU5e0gQHaEAfyJX41XEGJZf8/edit)*. Led by the PM. Team checks their roadmap and evaluate teams’ needs to decide what goes into the next sprint, and assign tasks. Teams can use [planning poker](https://en.wikipedia.org/wiki/Planning_poker) to estimate task effort. Everything is logged into Trello. You can copy this [Sprint Planning Trello Board template](https://docs.google.com/presentation/d/16tcUJk8ccpObsgYqb39WT9NCkY_Msq9BCnYLNlnqnYk/edit#slide=id.p19).
+- **Sprint Retrospective (½ hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1NWpazHGgOmbilSfwwFRCU5e0gQHaEAfyJX41XEGJZf8/edit)*. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/qRzOdBvj/eng-retro-board-template).
 - **Teamwork Rubric** - [rubric](https://docs.google.com/document/d/1d-K-DCbIvCOfmqIeoTAjoTg3LmiqXZc-RsTnIi3WAUg/edit) for individual performance on team and full team performance
 
 ## Evaluation
