@@ -56,11 +56,11 @@ All assignments are graded on completion. Individual requirements for each are l
 |         Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
 | [Complete Assignment Instructions]         |               |              | Gradescope
-| [Sprint Meeting Notes & Reflection 1]      |  Jan 25       |  Feb 3      | Gradescope  |
-| [Sprint Meeting Notes & Reflection 2]      |  Feb 3        |  Feb 10      | Gradescope  |
-| [Sprint Meeting Notes & Reflection 3]      |  Feb 10       |  Feb 17      | Gradescope  |
-| [Sprint Meeting Notes & Reflection 4]      |  Feb 17       |  Feb 24       | Gradescope  |
-| [Final Project]                            |  Jan 20       |  Mar 3       | Gradescope  |
+| [Sprint Meeting Notes & Reflection 1]      |    Gradescope     |  Gradescope      | Gradescope  |
+| [Sprint Meeting Notes & Reflection 2]      |    Gradescope      |    Gradescope    | Gradescope  |
+| [Sprint Meeting Notes & Reflection 3]      |    Gradescope     |    Gradescope    | Gradescope  |
+| [Sprint Meeting Notes & Reflection 4]      |   Gradescope      |    Gradescope     | Gradescope  |
+| [Final Project]                            |   Gradescope      |   Gradescope      | Gradescope  |
 
 [Complete Assignment Instructions]: https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit
 [Sprint Meeting Notes & Reflection 1]: https://www.gradescope.com/courses/223474/assignments
